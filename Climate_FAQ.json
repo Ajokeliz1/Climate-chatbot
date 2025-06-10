@@ -1,0 +1,22 @@
+{
+  "general": [
+    {
+      "question": "what is climate change",
+      "answer": "Climate change refers to long-term shifts in temperatures and weather patterns, primarily caused by human activities."
+    },
+    {
+      "question": "what causes climate change",
+      "answer": "The main causes are burning fossil fuels, deforestation, and industrial activities that increase greenhouse gases."
+    },
+    {
+      "question": "how can i help",
+      "answer": "Reduce energy use, eat less meat, use public transport, and support environmental policies."
+    }
+  ],
+  "science": [
+    {
+      "question": "what is the greenhouse effect",
+      "answer": "The greenhouse effect is when gases in Earth's atmosphere trap heat, similar to how glass traps heat in a greenhouse."
+    }
+  ]
+}
